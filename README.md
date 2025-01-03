@@ -2,6 +2,10 @@
 
 A simple implementation of the classic Space Invaders game using DrRacket and the `2htdp/universe` library.
 
+## Game Demo
+
+![Space Invaders Gameplay](./demo/gameplay.gif)
+
 ## Game Description
 
 In this version of Space Invaders, players control a tank at the bottom of the screen that can move left and right while shooting missiles at descending invaders. The goal is to destroy the invaders before they reach the bottom of the screen.
